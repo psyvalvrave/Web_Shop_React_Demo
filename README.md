@@ -1,7 +1,7 @@
 # Descrption
 This final project for a master-level web development course requires students to build a website that achieves CRUD (Create, Read, Update, Delete) functionality with a database. The database should be SQL-based, managed through Prisma. The website must be deployed on Vercel, while the server and database should be hosted on Render. Additionally, the project involves integrating public APIs to enhance the website's functionality. For secure authentication, Auth0 should be utilized for user logins. The entire website should be developed using JavaScript and React. 
 
-Under Assignment tag, original project requirements are listed clearly. This project should fulfill all requirements already. It should show the use of react, css, html and other web development knowledge.<br>
+Under Assignment tag, original project requirements are listed clearly. This project should fulfill all requirements already. It should show the use of react, css, html and other web development knowledge.Since I cannot make the class repo into my own and public it, I just move everything into my personal repository.<br>
 **How to Run the Demo:**
 1. Make sure both .env file is ready. Usually we do not put .env file in our repo. However, there isn't any important token or passcode in this .env file. For better understanding, you can just use mine.<br> 
 .env explain in API folder: <br>
