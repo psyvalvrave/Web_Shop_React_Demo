@@ -1,0 +1,3 @@
+DATABASE_URL="postgresql://postgres:password@localhost:5432/mylocaldb"
+AUTH0_AUDIENCE=https://api.todos
+AUTH0_ISSUER=https://dev-1orj0y1ldsjgqbvp.us.auth0.com/
